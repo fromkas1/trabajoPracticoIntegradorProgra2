@@ -1,0 +1,22 @@
+# Ignorar archivos de dependencias
+node_modules/
+target/
+bin/
+
+# Ignorar archivos del sistema operativo (MacOS, Windows)
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración del IDE
+.vscode/
+.idea/
+
+# Ignorar archivos de compilación en Java
+*.class
+
+# Archivos de logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.bak
